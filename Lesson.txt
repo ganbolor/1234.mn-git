@@ -13,8 +13,10 @@ http://1234.mn/course/108
 	https://desktop.github.com/                               - Git Desktop хувилбар татах
 	https://sourcetreeapp.com/                                - Branch мод хэлбэрээр хардаг програм / Git үйлдэлүүд хийх боломжтой
 	https://github.com/git1234mn/commands                     - 1234.mn Сургалтын github
-    https://www.markdownguide.org/basic-syntax/               -          
-
+	https://www.markdownguide.org/basic-syntax/               - Markdown
+	https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+															  - Markdown cheatsheet
+	https://www.webfx.com/tools/emoji-cheat-sheet/		      - Эможи
 ================================= GIT CONFIG ========================================================================
 Git тохиргооны файл хаана байдаг вэ
 	C:\Program Files\Git\etc\profile.d\git-prompt.sh
