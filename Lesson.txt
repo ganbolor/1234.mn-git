@@ -13,7 +13,7 @@ http://1234.mn/course/108
 	https://desktop.github.com/                               - Git Desktop хувилбар татах
 	https://sourcetreeapp.com/                                - Branch мод хэлбэрээр хардаг програм / Git үйлдэлүүд хийх боломжтой
 	https://github.com/git1234mn/commands                     - 1234.mn Сургалтын github
-
+    https://www.markdownguide.org/basic-syntax/               -          
 
 ================================= GIT CONFIG ========================================================================
 Git тохиргооны файл хаана байдаг вэ
@@ -239,7 +239,6 @@ git commit
   
 //merge болиулах
 git merge --abort
-
 
 
 
