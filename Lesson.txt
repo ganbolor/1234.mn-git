@@ -85,6 +85,7 @@ git remote --help
 1.git init      | git үүсгэх
 2.git status    | өөрчлөлт харах
 3.git add       | STAGING-д Нэмэх
+	git reset    | STAGING-д нэмсэнг болиулах
 4.git commit    | өөрчлөлт хадгалах
 5.git push      | server лүү илгээх
 6.git pull      | serverees tataj awah
