@@ -101,6 +101,9 @@ git add .
             - бүгдийн ADD хийх      
       git add file2.txt 
             - зөвхөн file2.txt файлыг ADD хийх
+git reset
+	staging оруулсан болиуулах
+	 
 git -c user.email="githubmail@anymail.com" -c user.name="uername1" commit -m "commit1" 
             - комит хийх / Холболт хийгээгүй үед өөрийн майл хэрэглэгчийн нэр шаардагатай
           
@@ -114,6 +117,17 @@ git push
             - 
 git checkout -- . 
             - Сэрвэрээс код авах
+======================== Git ignore - оруулахгүй файл болон сангууд зааж өгөх
+
+.gitignore -нэртэй файлыг root-д  үүсгэх
+	Дотор нь файл болон фолдеруудын замыг орууна уу
+	http://git-scm.com/docs/gitignore ээс харна уу
+	Жиш: 
+		myPassword.txt
+		1.Test/node_modules/
+		2.http/node_modules/
+		3.BookShop/node_modules/
+		
 
 ======================== Git -тэй кодтой ажиллах Бусад командууд =====================
 
